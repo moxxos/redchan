@@ -1,6 +1,6 @@
 # REDCHAN
 
-### Live at: http://www.redchan.net
+### Live at: http://redchan.net
 
 ##
 
