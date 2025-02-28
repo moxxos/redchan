@@ -1,4 +1,4 @@
-# REDCHAN
+# RedChan
 
 ### Live at: http://redchan.net
 
