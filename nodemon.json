@@ -1,0 +1,6 @@
+{
+    "watch": "src/server",
+    "ext": "ts",
+    "exec": "npx tsc -p tsconfig.server.json",
+    "ignore": "node_modules"
+}
