@@ -75,7 +75,7 @@ const board_links =
                 <li><a href="#qst">Quests</a></li>
                 <li><a href="#r">Adult Requests</a></li>
                 <li><a href="#r9k">ROBOT9001</a></li>
-                <li><a href="#s4s">Shit 4chan Says</a></li>
+                <li><a href="#s4s">Shit Redchan Says</a></li>
                 <li><a href="#s">Sexy Beautiful Women</a></li>
                 <li><a href="#sci">Science &amp; Math</a></li>
                 <li><a href="#soc">Cams &amp; Meetups</a></li>
@@ -113,7 +113,7 @@ const board_links =
         <li>
             <strong><a href="#irc">IRC</a></strong>
             <ul>
-                <li><a href="#pound">#4chan @ Rizon</a></li>
+                <li><a href="#pound">#Redchan @ Rizon</a></li>
             </ul>
         </li>
     </ul>
@@ -133,7 +133,7 @@ const global_rules =
                     <li>Dubs or GET posts, including 'Roll for X' images</li>
                 </ol>
             </li>
-            <li id="global4">You will not post or request personal information ("dox") or calls to invasion ("raids"). Inciting or participating in cross-board (intra-4chan) raids is also not permitted.</li>
+            <li id="global4">You will not post or request personal information ("dox") or calls to invasion ("raids"). Inciting or participating in cross-board (intra-Redchan) raids is also not permitted.</li>
             <li id="global5">All boards that default to the Yotsuba B (blue) theme are to be considered "work safe". Violators may be temporarily banned and their posts removed. Note: Spoilered pornography or other "not safe for work" content is NOT allowed.</li>
             <li id="global6">The quality of posts is extremely important to this community. Contributors are encouraged to provide high-quality images and informative comments. Please refrain from posting the following:
                 <ol>
@@ -145,19 +145,19 @@ const global_rules =
                 </ol>
             </li>
             <li id="global7">Submitting false or misclassified reports, or otherwise abusing the reporting system may result in a ban. Replying to a thread stating that you've reported or "saged" it, or another post, is also not allowed.</li>
-            <li id="global8">Complaining about 4chan (its policies, moderation, etc) on the imageboards may result in post deletion and a ban.</li>
+            <li id="global8">Complaining about Redchan (its policies, moderation, etc) on the imageboards may result in post deletion and a ban.</li>
             <li id="global9">Evading your ban will result in a permanent one. Instead, wait and <a href="/faq#banappeal" target="_blank">appeal</a> it!</li>
             <li id="global10">No spamming or flooding of any kind. No intentionally evading spam or post filters.</li>
             <li id="global11">Advertising (all forms) is not welcome—this includes any type of referral linking, "offers", soliciting, begging, stream threads, etc.</li>
-            <li id="global12">Impersonating a 4chan administrator, moderator, or janitor is strictly forbidden.</li>
+            <li id="global12">Impersonating a Redchan administrator, moderator, or janitor is strictly forbidden.</li>
             <li id="global13">Do not use avatars or attach signatures to your posts.</li>
             <li id="global14">The use of scrapers, bots, or other automated posting or downloading scripts is prohibited. Users may also not post from proxies, VPNs, or Tor exit nodes.</li>
             <li id="global15">All pony/brony threads, images, Flashes, and avatars belong on /<a href="#mlp" title="Pony">mlp</a>/.</li>
-            <li id="global16">All request threads for adult content belong on /<a href="//boards.4chan.org/r/" title="Request">r</a>/, and all request threads for work-safe content belong on /<a href="//boards.4chan.org/wsr/" title="Worksafe Requests">wsr</a>/, unless otherwise noted.</li>
+            <li id="global16">All request threads for adult content belong on /<a href="//boards.Redchan.org/r/" title="Request">r</a>/, and all request threads for work-safe content belong on /<a href="//boards.Redchan.org/wsr/" title="Worksafe Requests">wsr</a>/, unless otherwise noted.</li>
             <li id="global17">Do not upload images containing additional data such as embedded sounds, documents, archives, etc.</li>
         </ol>
         <p>Global rules apply to all boards unless otherwise noted.</p>
-        <p>Remember: The use of 4chan is a privilege, not a right. The 4chan moderation team reserves the right to revoke access and remove content for any reason without notice.</p>
+        <p>Remember: The use of Redchan is a privilege, not a right. The Redchan moderation team reserves the right to revoke access and remove content for any reason without notice.</p>
     </>
 
 const image_boards =
@@ -182,7 +182,7 @@ const image_boards =
                 long as they are distinctly rooted in, or based off of an anime or
                 manga series.</li>
             <li id="a5">Japanese visual novels should be posted
-                in /<a href="//boards.4chan.org/jp/">jp</a>/, and Western on /<a href="//boards.4chan.org/vg/">vg</a>/.</li>
+                in /<a href="//boards.Redchan.org/jp/">jp</a>/, and Western on /<a href="//boards.Redchan.org/vg/">vg</a>/.</li>
             <li id="a6">Threads should be created with substantial OP text containing a meaningful topic of discussion. Please refrain from posting catch-phrase or template threads.</li>
         </ol>
         <HRStyled />
@@ -190,7 +190,7 @@ const image_boards =
         <ol>
             <li id="aco1">All images and discussion should pertain to 2D/3DCG adult illustrations of "Western" origin or style. Images of Japanese/"Eastern" origin and style should be posted on the appropriate board.</li>
             <li id="aco2">Global Rule #3 is in effect. No anthropomorphic ("furry") or grotesque ("guro") images are permitted, and all images should depict "of age" participants. Images depicting bestiality, scat, or generally seen to be "extreme" in nature are not to be uploaded.</li>
-            <li id="aco3">All images should be of high quality and high resolution. No doodles or garbage artwork. 4chan's moderation team will be the arbiters of what is and is not high quality.</li>
+            <li id="aco3">All images should be of high quality and high resolution. No doodles or garbage artwork. Redchan's moderation team will be the arbiters of what is and is not high quality.</li>
             <li id="aco4">Racist remarks, trolls, and bump-replies (ex: "moar!") are not welcome.</li>
             <li id="aco5">Please provide relevant information in your opening post where possible (e.g., source material, artist name, etc) in order to minimize requests for the source of an image.</li>
             <li id="aco6">The posting of 'real' images is discouraged.</li>
@@ -356,7 +356,7 @@ const image_boards =
             <li id="hc1">Only tasteful hardcore pornography allowed.</li>
             <li id="hc2">No images depicting abuse.</li>
             <li id="hc3">This board is for straight content.</li>
-            <li id="hc4">Requests belong in /<a href="//boards.4chan.org/r/" title="Request">r</a>/!</li>
+            <li id="hc4">Requests belong in /<a href="//boards.Redchan.org/r/" title="Request">r</a>/!</li>
             <li id="hc5">No "fakes" or photo manipulations of any kind. This includes "morphs."</li>
         </ol>
         <HRStyled />
@@ -449,7 +449,7 @@ const image_boards =
         <HRStyled />
         <H3Styled><a id="mlp" >/mlp/ - Pony</a></H3Styled>
         <ol>
-            <li id="mlp1">This is the destination for <u>all</u> cartoon/anime pony related content on 4chan. (Note: This rule has been changed to accommodate Filly Funtasia, and does not override previous rule clarifications that ban certain threads.)</li>
+            <li id="mlp1">This is the destination for <u>all</u> cartoon/anime pony related content on Redchan. (Note: This rule has been changed to accommodate Filly Funtasia, and does not override previous rule clarifications that ban certain threads.)</li>
             <li id="mlp2">This is a work safe board. No pornographic images or other not safe for work
                 content is allowed (this includes clop).</li>
             <li id="mlp3">Topics must be show-related. When discussing people, they must be associated with the show
@@ -556,7 +556,7 @@ const image_boards =
             <li id="r9k4">Purposefully evading the ROBOT9000 filter is not permitted.</li>
         </ol>
         <HRStyled />
-        <H3Styled><a id="s4s" >/s4s/ - Shit 4chan Says</a></H3Styled>
+        <H3Styled><a id="s4s" >/s4s/ - Shit Redchan Says</a></H3Styled>
         <ol>
             <li id="s4s1">You must check your #fortune in order to post on this board.</li>
             <li id="s4s2"><a href="#global">Global</a> rules 1, 2, 4, 6, 7, 9, 10, 11, 12, 13, 14, and 15 are enforced.</li>
@@ -573,7 +573,7 @@ const image_boards =
                 post it! (ex: model's name, where to find the full set, link(s) to
                 more/similar content, etc.). Reminder: <a href="#global4">Global Rule 4</a> still applies.</li>
             <li id="s3">No hardcore or related fetish images allowed. Take it to
-                /<a href="//boards.4chan.org/hc/" title="Hardcore">hc</a>/!</li>
+                /<a href="//boards.Redchan.org/hc/" title="Hardcore">hc</a>/!</li>
             <li id="s4">Racist remarks, trolls, and bump-replies (ex: "moar!") are not
                 welcome.</li>
             <li id="s5">The posting of paysite passwords is forbidden.</li>
@@ -668,7 +668,7 @@ const image_boards =
         <H3Styled><a id="u">/u/ - Yuri</a></H3Styled>
         <ol>
             <li id="u1">All images and discussion should pertain to the yuri genre. Yuri is lesbian and/or softcore in nature, and of Japanese origin.</li>
-            <li id="u2">Images must not contain men, and should ideally be of two or more women. The occasional solo image is allowed as long as it's relevant to the topic, but solo image dumps should be posted on /<a href="//boards.4chan.org/e/" title="Ecchi">e</a>/.</li>
+            <li id="u2">Images must not contain men, and should ideally be of two or more women. The occasional solo image is allowed as long as it's relevant to the topic, but solo image dumps should be posted on /<a href="//boards.Redchan.org/e/" title="Ecchi">e</a>/.</li>
             <li id="u3">Images should depict "of age" participants. Lolikon and shota images are not permitted.</li>
         </ol>
         <HRStyled />
@@ -685,7 +685,7 @@ const image_boards =
                 posted.</li>
             <li id="v5">Purposeful spoiling of a game's plot or other details may result in post deletion and temporary ban. Use spoiler tags where appropriate.</li>
             <li id="v6">"Generals"&mdash;long-term, recurring threads about a specific game&mdash;should be posted
-                in /<a href="//boards.4chan.org/vg/" title="Video Game Generals">vg</a>/. This is
+                in /<a href="//boards.Redchan.org/vg/" title="Video Game Generals">vg</a>/. This is
                 not to say threads about specific games cannot be created on /v/, just that long-term, recurring
                 threads belong in /vg/.</li>
         </ol>
@@ -695,7 +695,7 @@ const image_boards =
             <li id="vg1">This board is for the posting of video game "general" threads, which are long-term, recurring threads
                 about a specific topic.</li>
             <li id="vg2">Western visual novels should be posted here, and Japanese visual novels on
-                /<a href="//boards.4chan.org/jp/" title="Otaku Culture">jp</a>/. Translated visual novels
+                /<a href="//boards.Redchan.org/jp/" title="Otaku Culture">jp</a>/. Translated visual novels
                 are allowed on either board.</li>
             <li id="vg3">Purposeful spoiling of a game's plot or other details may result in post deletion and temporary ban. Use spoiler tags where appropriate.</li>
         </ol>
@@ -718,7 +718,7 @@ const image_boards =
         <ol>
             <li id="vp1">For Pok&eacute;mon related discussion.</li>
             <li id="vp2">Please respect <a href="#global">global rules</a> 3 and 5&mdash;no non-work safe or "furry" material should be posted on this board.</li>
-            <li id="vp3">Post all Pok&eacute;girl hentai to /<a href="//boards.4chan.org/h/" title="Hentai">h</a>/.</li>
+            <li id="vp3">Post all Pok&eacute;girl hentai to /<a href="//boards.Redchan.org/h/" title="Hentai">h</a>/.</li>
             <li id="vp4">Do not incite genwars. Keep discussions civil and don't let them devolve into flaming.</li>
             <li id="vp5">GOTTA CATCH 'EM ALL. <em>This will be severely punished and strictly enforced.</em></li>
             <li id="vp6">Purposeful spoiling of a game's plot or other details may result in post deletion and temporary ban. Use spoiler tags where appropriate.</li>
@@ -812,7 +812,7 @@ const upload_boards =
 
 const irc =
     <>
-        <p><a href="irc://irc.rizon.net/4chan">#4chan on Rizon</a> is the official IRC channel of 4chan.org, a website. You may use this channel to speak with other 4chan users, contact a moderator about technical site issues, or for help with a ban. Moderators are designated either as @Operators or %Half-operators.</p>
+        <p><a href="irc://irc.rizon.net/Redchan">#Redchan on Rizon</a> is the official IRC channel of Redchan.org, a website. You may use this channel to speak with other Redchan users, contact a moderator about technical site issues, or for help with a ban. Moderators are designated either as @Operators or %Half-operators.</p>
         <ol>
             <li id="pound1">Do not post personal information in the channel, including your IP address. If you are visiting the channel to speak with a moderator regarding a ban you were issued, for example, sensitive details such as your IP or appeal ID number should be shared privately.</li>
             <li id="pound2">Do not use this channel in lieu of reporting posts that violate the rules. If you have submitted a report, please rest assured that a moderator/janitor will tend to it as soon as possible.</li>

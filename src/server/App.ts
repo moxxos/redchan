@@ -102,7 +102,7 @@ const BOARDS: Array<Category> = [
             { name: 'Politically Incorrect', id: 'pol' },
             { name: 'International/Random', id: 'bant' },
             { name: 'Cams & Meetups', id: 'soc' },
-            { name: 'Shit 4chan Says', id: 's4s' }
+            { name: 'Shit Redchan Says', id: 'srs' }
         ]
     },
     {

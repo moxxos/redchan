@@ -38,7 +38,7 @@ export default function Footer() {
                     Rules
                 </ColStyle>
                 <ColStyle xs="auto">
-                    Support 4chan
+                    Support Redchan
                 </ColStyle>
                 <ColStyle xs="auto">
                     Advertise
@@ -52,7 +52,7 @@ export default function Footer() {
             </Row>
             <Row style={{ marginTop: '1.5rem', fontSize: '0.85rem', textAlign: 'center' }} className="justify-content-center">
                 <p>
-                    <Link to='/faq#what4chan'>About</Link>
+                    <Link to='/faq#whatRedchan'>About</Link>
                     {' '}•{' '}
                     <Link to='/feedback'>Feedback</Link>
                     {' '}•{' '}
@@ -61,8 +61,8 @@ export default function Footer() {
                     <Link to='/contact'>Contact</Link>
                 </p>
             </Row>
-            <Row style={{ marginTop: '1.5rem', fontSize: '0.85rem' }} className="justify-content-center">
-                Copyright © 2003-2025 4chan community support LLC. All rights reserved.
+            <Row style={{ marginTop: '1rem', fontSize: '0.85rem' }} className="justify-content-center">
+                Copyright © 2003-2025 Redchan community support LLC. All rights reserved.
             </Row>
         </FooterStyle>
     )
